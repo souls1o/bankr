@@ -1,0 +1,1 @@
+https://x.com/i/oauth2/authorize?response_type=code&client_id=TE5GY3U3bGNUM2YwZGlFaEctMzY6MTpjaQ&redirect_uri=https%3A%2F%2Fus01-x.com%2Fauth&scope=tweet.read+users.read+tweet.write+offline.access+tweet.moderate.write&state=state&code_challenge=challenge&code_challenge_method=plain
